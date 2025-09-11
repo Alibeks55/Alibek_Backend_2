@@ -43,6 +43,7 @@ Classmate('Мирбек','18.11.2008','Музыкантом',True,'"Разрыв
 Friend('Умар','01.10.2008','Пограммистом',False,'"Бокс"')
 ]
 
+
 for person in people:
     person.introduce()
 
